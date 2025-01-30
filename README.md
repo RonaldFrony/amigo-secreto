@@ -20,7 +20,7 @@ Um projeto simples para realizar sorteios de Amigo Secreto de forma dinâmica e 
 
 1. **Clone o repositório:**
    ```bash
-        git clone https://github.com/seu-usuario/amigo-secreto.git
+        git clone https://github.com/RonaldFrony/amigo-secreto.git
 
 2. **Acesse a pasta do projeto:**
 
